@@ -1,0 +1,9 @@
+.project{
+
+    border: 1px solid black;
+    height: 500px;
+    width: 400px;
+    display:flex;
+    align-self: center;
+    justify-self: center ;
+}

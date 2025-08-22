@@ -1,0 +1,80 @@
+
+
+#navbar{
+display: flex;
+background-color: lightseagreen;
+border-radius: 30px;
+
+}
+
+.links{
+    display: flex;
+    margin-left:50px ;
+    margin-bottom: ;
+
+    ;
+}
+
+.link1{
+
+    margin-left: px;
+}
+
+.link2{
+    margin-left: 200px;
+}
+
+.link3{
+
+    margin-left: 200px;
+}
+
+.link4{
+
+    margin-left: 200px;
+}
+
+nav ul li {
+    list-style: none;
+    display: flex;
+    text-decoration-line: none;
+}
+
+
+form{
+margin-top: 18px;
+margin-left: 150px;
+display: flex;
+
+}
+
+
+input{
+    width: 500px;
+    border-radius: 8px;
+    padding: 10px;
+    gap: 10px;
+    border: solid black;
+    background: transparent;
+}
+
+.bruh{
+
+    display: flex;
+}
+
+#bar{
+
+    display: flex;
+}
+
+.search{
+
+    margin-left:250px ;
+}
+
+ul li :hover{
+
+    color: aqua;
+    transition: 0.5s;
+}

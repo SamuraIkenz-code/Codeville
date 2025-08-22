@@ -1,0 +1,62 @@
+.unique{
+    height:300px;
+    width:300px ;
+    background-color: green;
+}
+
+.special{
+    height:300px;
+    width:300px ;
+    background-color: yellow;
+}
+
+.great{
+    height:300px;
+    width:300px ;
+    background-color: red;
+}
+
+.amazing{
+    display: flex;
+    justify-content: center ;
+    align-items: center ;
+    gap: 30px;
+}
+
+.good{
+    width: 300px;
+    height:300px ;
+    background-color:green ;
+}
+
+.fantastic{
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+}
+
+.great2{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+}
+
+#unique{
+
+    color: red;
+}
+
+.different{
+
+    background-color: lightyellow;
+}
+
+.nice{
+
+    font-family: italic;
+}
